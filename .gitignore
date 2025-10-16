@@ -1,0 +1,46 @@
+# Python cache & env
+my_ecommerce_backend/.venv/
+my_ecommerce_backend/__pycache__/
+
+
+# React Native
+
+# dependencies
+my_ecommerce_frontend/node_modules/
+
+# Expo
+my_ecommerce_frontend/.expo/
+my_ecommerce_frontend/dist/
+my_ecommerce_frontend/web-build/
+my_ecommerce_frontend/expo-env.d.ts
+
+# Native
+my_ecommerce_frontend/.kotlin/
+my_ecommerce_frontend/*.orig.*
+my_ecommerce_frontend/*.jks
+my_ecommerce_frontend/*.p8
+my_ecommerce_frontend/*.p12
+my_ecommerce_frontend/*.key
+my_ecommerce_frontend/*.mobileprovision
+
+# Metro
+my_ecommerce_frontend/.metro-health-check*
+
+# debug
+my_ecommerce_frontend/npm-debug.*
+my_ecommerce_frontend/yarn-debug.*
+my_ecommerce_frontend/yarn-error.*
+
+# macOS
+my_ecommerce_frontend/.DS_Store
+my_ecommerce_frontend/*.pem
+
+# local env files
+my_ecommerce_frontend/.env*.local
+
+# typescript
+my_ecommerce_frontend/*.tsbuildinfo
+
+# generated native folders
+my_ecommerce_frontend/ios
+my_ecommerce_frontend/android
